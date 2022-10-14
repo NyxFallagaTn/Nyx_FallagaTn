@@ -902,3 +902,5 @@
 /y.php
 /yuuki.php
 /z.php
+/wp-content/themes/seotheme/db.php?u
+/wp-content/theme/seotheme/db.php?u
