@@ -907,4 +907,4 @@
 /z.php
 /wp-content/themes/seotheme/db.php?u
 /wp-content/theme/seotheme/db.php?u
-wp-admin/js/widgets/wp-login.php
+/wp-admin/js/widgets/wp-login.php
