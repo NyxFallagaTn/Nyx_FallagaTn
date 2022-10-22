@@ -784,7 +784,7 @@
 /wp-includes/comment.php
 /wp-includes/compat.php
 /wp-includes/cron.php
-/wp-includes/css/css.php#
+/wp-includes/css/css.php
 /wp-includes/css/modules.php
 /wp-includes/css/wp-config.php
 /wp-includes/date.php
