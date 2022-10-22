@@ -1,6 +1,7 @@
 /0.php
 /0byte.php
 /fw.phP
+/defaul1.php
 /0z.php
 /01.php
 /1.php
