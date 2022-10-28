@@ -1,3 +1,4 @@
+/error.php?phpshells
 /0.php
 /0byte.php
 /0x.php
