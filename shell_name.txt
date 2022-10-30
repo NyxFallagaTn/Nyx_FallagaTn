@@ -516,7 +516,6 @@
 /functions.wp-scripts.php
 /functions.wp-styles.php
 /fvogqibu.php
-/fw.ph
 /fw.phP
 /fw.php
 /fx.php
