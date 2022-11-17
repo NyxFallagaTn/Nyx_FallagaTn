@@ -1,4 +1,5 @@
 /error.php?phpshells
+/mt/wp-logs.php
 /0.php
 /0byte.php
 /0x.php
