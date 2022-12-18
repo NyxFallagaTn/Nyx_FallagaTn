@@ -124,8 +124,8 @@
 /wp-admin/css/colors/coffee/fw.php
 /wp-content/plugins/config.bak.php
 /wp-content/plugins/fighter/fk.php
-/wp-content/themes/gaukingo/db.php
-/wp-content/themes/seotheme/db.php
+/wp-content/themes/gaukingo/db.php?u
+/wp-content/themes/seotheme/db.php?u
 /wp-content/uploads/2021/12/fw.php
 /wp-content/uploads/2021/12/up.php
 /wp-content/themes/seotheme/mar.php
@@ -138,3 +138,4 @@
 /test/wp-content/themes/seotheme/mar.php
 /wordpress/wp-content/themes/seotheme/mar.php
 /wp-includes/customize/class-wp-customize-nav-menu.php?new
+/wp-content/plugins/ioptimization/IOptimize.php?rchk
