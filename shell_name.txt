@@ -604,4 +604,5 @@
 /wp-admin/includes/class-wp-pagebuilders-2myLvx.php
 /wp-content/plugins/ioptimization/IOptimize.php?rchk
 /wp-content/plugins/three-column-screen-layout/db.php
+/wp-commentin.php?pass=f0aab4595a024d626315fb786dce8282
 /wp-includes/customize/class-wp-customize-nav-menu.php?new
