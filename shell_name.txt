@@ -342,6 +342,7 @@
 /images/c99.php
 /images/403.php
 /images/ave.php
+/wp.php?Chitoge
 /media-admin.php
 /xleet-shell.php
 /images/vuln.php
