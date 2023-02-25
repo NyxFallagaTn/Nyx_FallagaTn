@@ -575,6 +575,7 @@
 /administrator/templates/hathor/index.php
 /wp-content/plugins/html404/cry.php.pjpeg
 /wp-content/plugins/widget-logic/mini.php
+/wp-content/mu-plugins-old/iimzloqncz.php
 /wp-admin/xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php
 /wp-content/plugins/css-ready-sel/file.php
 /wp-includes/ID3/module.tag.id3v1-cron.php
