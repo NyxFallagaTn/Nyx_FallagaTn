@@ -1,5 +1,3 @@
-
-
 /x.php
 /e.php
 /0.php
